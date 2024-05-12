@@ -32,7 +32,7 @@ const CreateTodo = () => {
           alert("Todo added")
         })
       }}>Add a Todo</button>
-
+<p>Hello world</p>
     </div>
   )
 }
